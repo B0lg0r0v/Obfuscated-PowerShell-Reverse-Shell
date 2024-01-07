@@ -15,7 +15,7 @@ I recommend creating your own obfuscated reverse shell. There are plenty of reso
 
 - Check out the entropy of your code. The lower it is, the more chances you have for evading AV. -> https://planetcalc.com/2476/
 - Rename your objects (variables, classes, etc.)
-- A great trick is to use cmdlet quote infos. Ex. "iex pwd" could also be "i''ex p''wd"
+- A great trick is to use cmdlet quote infos. Ex. `iex pwd` could also be `i''ex p''wd`
 - Change your loops. Ex. instead of a "for loop” do a "Do-While Loop".
 
 
