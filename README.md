@@ -1,4 +1,4 @@
-# Obfuscated-PowerShell-RevShell
+# Obfuscated PowerShell Revser-Shell
 
 Obfuscated powershell revShell script. It's designed to be used in combination with the c2 framework "Villain" by t3l3machus.
 
