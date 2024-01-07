@@ -18,15 +18,14 @@ I recommend creating your own obfuscated reverse shell. There are plenty of reso
 - A great trick is to use cmdlet quote infos. Ex. `iex pwd` could also be `i''ex p''wd`
 - Change your loops. Ex. instead of a "for loop” do a "Do-While Loop".
 
+## Detections
 
-
-## Disclaimer
-
-You are responsible for your actions. Don't do bad things.
-
-----
 Currently undetected AVs (04.10.2023):
   - Sophos Intercept X
   - Fsecure
   - Kaspersky
   - Windows Defender
+
+## Disclaimer
+
+You are responsible for your actions. Don't do bad things.
