@@ -20,7 +20,7 @@ I recommend creating your own obfuscated reverse shell. There are plenty of reso
 
 
 
-## Disclosure
+## Disclaimer
 
 You are responsible for your actions. Don't do bad things.
 
