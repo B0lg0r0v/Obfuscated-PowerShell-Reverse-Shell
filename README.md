@@ -20,7 +20,7 @@ I recommend creating your own obfuscated reverse shell. There are plenty of reso
 
 ## Detections
 
-Currently undetected AVs (04.10.2023):
+Currently undetected AVs (11.01.2024):
   - Sophos Intercept X
   - Fsecure
   - Kaspersky
